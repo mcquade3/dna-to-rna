@@ -1,5 +1,5 @@
 # Mike McQuade
-# rna.pl
+# dna-to-rna.pl
 use strict;
 use warnings;
 
